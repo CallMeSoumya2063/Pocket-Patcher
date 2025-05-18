@@ -10,9 +10,11 @@ A bash script aiming to patch minecraft apk files, quickly and easily
 - Current alternatives
 - Aim of this project
 
-## 3rd party components
+## 3rd party ultilities used
 [ManifestEditor](https://github.com/WindySha/ManifestEditor)
 
 [MBL2](https://github.com/mcbegamerxx954/mtbinloader2)
 
-[Patchelf](https://github.com/NixOS/patchelf)
+[patchelf](https://github.com/NixOS/patchelf)
+
+Honorable mention: [axml2xml](https://github.com/AbdurazaaqMohammed/axml2xml)
