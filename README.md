@@ -14,3 +14,5 @@ A bash script aiming to patch minecraft apk files, quickly and easily
 [ManifestEditor](https://github.com/WindySha/ManifestEditor)
 
 [MBL2](https://github.com/mcbegamerxx954/mtbinloader2)
+
+[Patchelf](https://github.com/NixOS/patchelf)
