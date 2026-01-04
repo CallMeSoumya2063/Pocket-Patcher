@@ -2,7 +2,7 @@
 A ***cancelled*** bash script aiming to patch minecraft apk files, quickly and easily
 
 # ~~WIP~~
-**Current Stage**: cancelled
+**Current Stage**: cancelled.
 ***Please migrate to [MB Loader](https://play.google.com/store/apps/details?id=io.bambosan.mbloader).***
 
 > [!IMPORTANT]
